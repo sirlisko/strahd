@@ -2,7 +2,6 @@
 titolo: Wizard of Wines
 tipo: cantina/vigneto
 regione: Barovia
-visitato: true
 estratto: Cantina di vino fuori Vallaki, invasa da mostri-pianta guidati da druidi malvagi al servizio di Strahd.
 ---
 

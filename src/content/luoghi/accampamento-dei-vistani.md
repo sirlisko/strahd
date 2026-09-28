@@ -2,7 +2,6 @@
 titolo: Accampamento dei Vistani
 tipo: accampamento
 regione: Barovia
-visitato: false
 estratto: Meta scelta dal gruppo dopo la fuga da Vallaki; si ritiene siano gli unici a sapere come lasciare le nebbie di Barovia.
 ---
 

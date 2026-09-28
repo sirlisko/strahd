@@ -2,7 +2,6 @@
 titolo: Locanda di Urwin
 tipo: locanda
 regione: Barovia
-visitato: true
 estratto: Locanda di Vallaki gestita da Urwin, base operativa del gruppo in città.
 ---
 

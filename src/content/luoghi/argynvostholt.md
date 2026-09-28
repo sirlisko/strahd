@@ -2,7 +2,6 @@
 titolo: Argynvostholt
 tipo: rovina/fortezza
 regione: Barovia
-visitato: false
 estratto: Sede di cavalieri con il simbolo del drago, segnalata da un non-morto come possibile alleato contro Strahd.
 ---
 

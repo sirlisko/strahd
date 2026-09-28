@@ -3,7 +3,7 @@ titolo: La Festa del Sole Splendente e l'infiltrazione nella villa
 numero: 8
 data: 2026-08-05
 estratto: Durante la festa del borgomastro il gruppo si infiltra nella villa di Vargas alla ricerca dello specchio magico, mentre Erieth riceve nuovi ordini dal suo patrono.
-luoghiVisitati: [Vallaki]
+luoghiVisitati: [Vallaki, Locanda di Urwin, Villa del Borgomastro]
 tag: [dopo una lunga pausa reale]
 ---
 

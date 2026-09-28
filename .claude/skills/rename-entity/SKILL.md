@@ -51,7 +51,7 @@ Merge:
 
 - Fold the duplicates' bodies into the canonical file in chronological
   order (use the session numbers they mention), removing repetition but not
-  history. Frontmatter: keep the most recent state (`stato`, `visitato`,
+  history. Frontmatter: keep the most recent state (`stato`,
   `luogo`…), the best `estratto`, the union of `tag`.
 - `git rm` the duplicate files.
 

@@ -1,9 +1,20 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { getSlugMap, normalize } from '../lib/wikilinks.mjs';
 
 const places = await getCollection('luoghi');
 const byId = Object.fromEntries(places.map((l) => [l.id, l]));
+
+const slugMap = getSlugMap();
+const visitedUrls = new Set<string>();
+for (const s of await getCollection('sessions')) {
+  for (const name of s.data.luoghiVisitati) {
+    const url = slugMap.get(normalize(name))?.url;
+    if (url?.startsWith('/luoghi/')) visitedUrls.add(url);
+    else console.warn(`[mappa] luoghiVisitati in ${s.id}: "${name}" is not a place`);
+  }
+}
 
 // Painted background (public/images/mappe/barovia.webp) traced from a sketch
 // of the valley in 1920x1080 coordinates. Only places the party knows about get
@@ -106,7 +117,7 @@ function smooth(pts: P[]) {
       </g>
 
       {nodes.map((n) => {
-        const visited = n.entry!.data.visitato;
+        const visited = visitedUrls.has(`/luoghi/${n.id}`);
         const title = n.entry!.data.titolo;
         const r = n.large ? 18 : 13;
         const labelWidth = title.length * 11 + 24;

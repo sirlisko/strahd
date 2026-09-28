@@ -2,7 +2,6 @@
 titolo: Vallaki
 tipo: cittadina
 regione: Barovia
-visitato: true
 estratto: Cittadina murata governata da Barone Vargas, che impone con la forza una "felicità di stato".
 ---
 

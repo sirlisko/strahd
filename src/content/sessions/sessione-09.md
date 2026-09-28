@@ -3,7 +3,7 @@ titolo: La soffitta segreta della villa
 numero: 9
 data: 2026-08-13
 estratto: Erieth risale in cima alla villa del borgomastro, il gruppo lo raggiunge con una corda e scoprono una porta trappola che nasconde un macabro studio segreto.
-luoghiVisitati: [Vallaki]
+luoghiVisitati: [Vallaki, Villa del Borgomastro]
 ---
 
 Il gruppo nota, con un po' di ritardo, un problema nel loro sistema di

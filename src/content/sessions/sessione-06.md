@@ -3,7 +3,7 @@ titolo: Arrivo a Vallaki e la lettera di Strahd
 numero: 6
 data: 2026-05-20
 estratto: Il gruppo consegna (in parte) il carico del Wizard of Wines a Urwin, riceve un invito a cena da Strahd e pianifica l'infiltrazione nella villa del borgomastro.
-luoghiVisitati: [Vallaki]
+luoghiVisitati: [Vallaki, Wizard of Wines, Locanda di Urwin, Chiesa di Vallaki]
 ---
 
 ## Arrivo alla locanda

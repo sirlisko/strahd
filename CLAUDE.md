@@ -44,7 +44,7 @@ These apply to every content edit, by hand or through a skill.
   characters haven't discovered in play yet (plot twists, secret identities,
   future developments) — the players themselves read this site.
 - **Append, don't rewrite:** when an existing entity changes, update its
-  frontmatter (`stato`, `visitato`, …) and add a paragraph about the new
+  frontmatter (`stato`, `luogo`, …) and add a paragraph about the new
   development; don't rewrite earlier history.
 
 ### Audio → session pipeline (optional)
@@ -100,6 +100,7 @@ scope, e.g. `feat(content): add sessione-11`,
   1920x1080 coordinates, sit only Barovia's "headline" places (not stops
   inside a settlement, e.g. the shops in Vallaki): pins placed by hand in the
   `nodes` array, roads in `travelledRoads` (red) or `knownRoads` (dashed).
+  A pin shows as visited when any session lists the place in `luoghiVisitati`.
   When the party reaches a new place, add its pin and move the road from
   known to travelled.
 - Search (`/cerca`, `src/pages/cerca.astro`) uses Pagefind: the index is

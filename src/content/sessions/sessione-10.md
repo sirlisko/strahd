@@ -3,7 +3,7 @@ titolo: Il figlio del Borgomastro e la fuga da Vallaki
 numero: 10
 data: 2026-08-20
 estratto: Il gruppo scopre chi si nascondeva nello studio segreto della villa, Don Matteor paga a caro prezzo la propria clemenza in piazza, e la compagnia lascia Vallaki diretta verso i Vistani.
-luoghiVisitati: [Vallaki]
+luoghiVisitati: [Vallaki, Villa del Borgomastro, Locanda di Urwin, Bottega del Becchino]
 tag: [colpo di scena]
 ---
 

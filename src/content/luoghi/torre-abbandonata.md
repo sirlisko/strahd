@@ -2,7 +2,6 @@
 titolo: Torre Abbandonata
 tipo: torre
 regione: Barovia
-visitato: false
 estratto: Torre sulla strada per il Wizard of Wines, apparentemente disabitata ma di nuovo occupata, con attività magica rilevata.
 ---
 

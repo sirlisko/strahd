@@ -55,7 +55,7 @@ titolo: <evocative title>
 numero: <N>
 data: <YYYY-MM-DD — the real session date if known; interactively, ask if unknown; otherwise today and flag it>
 estratto: <1-2 sentences, max 300 characters (schema-enforced)>
-luoghiVisitati: [<titolo of each place the party was physically in>]
+luoghiVisitati: [<titolo of each place the party was physically in — this is what marks a place as visited on the map>]
 tag: [<optional, short>]
 ---
 ```
@@ -79,8 +79,8 @@ what is known, use `sconosciuto` for things that matter but aren't known yet.
   `immagine: /images/personaggi/<id>.png` only if that file exists.
 - `png/`: `titolo`, `ruolo`, `stato` (`vivo`|`morto`|`scomparso`|`sconosciuto`),
   `fazione`, `luogo`, `estratto`, `tag`.
-- `luoghi/`: `titolo`, `tipo`, `regione`, `visitato` (`true` if the party has
-  been there), `estratto`, `tag`.
+- `luoghi/`: `titolo`, `tipo`, `regione`, `estratto`, `tag`. Whether a place
+  was visited comes from the sessions' `luoghiVisitati`, not from the place.
 
 Body: a short Italian paragraph with what the party knows and how they met
 it, linked back to the session and other entities.
@@ -89,7 +89,7 @@ it, linked back to the session and other entities.
 
 For each existing entity that appears again:
 
-- Update frontmatter that changed: `stato` (e.g. `morto`), `visitato: true`,
+- Update frontmatter that changed: `stato` (e.g. `morto`),
   `luogo`, `ruolo`, `estratto` if it's now misleading.
 - **Append** a paragraph describing the new development. Don't rewrite
   earlier history.
@@ -102,7 +102,7 @@ For each existing entity that appears again:
   state changed meaningfully (goal reached, new faction, new region, major
   death). Append or adjust the relevant section; don't rewrite it.
 - The map (`src/pages/mappa.astro`) shows only headline places (not shops
-  inside a town). Pin colours follow `visitato` automatically. If the party
+  inside a town). Pin colours follow the sessions' `luoghiVisitati` automatically. If the party
   reached a new headline place or travelled a new road, move the road from
   `knownRoads` to `travelledRoads` when it already exists; don't invent
   coordinates for new pins — list them in the report so the user can place
