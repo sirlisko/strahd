@@ -23,10 +23,9 @@ l'arresto e la fa trascinare nel fango legata dietro il proprio cavallo,
 ridendo e gridando "vedete cosa succede ai nemici della felicità" — ignora
 il tentativo di [[Don Matteor]] di intercedere per clemenza, e quando
 Matteor osa un discorso pubblico in difesa dell'unità della città, lo
-dichiara non gradito e ordina di disarmare ed espellere
+dichiara non gradito e ordina di disarmare ed espellere lui,
 [[Ismark Kolyanovich]] e [[Ireena]]. Un incantesimo di Matteor placa la sua
-ira e gli fa dimenticare l'accaduto, ma il bando contro i tre resta
-comunque in vigore.
+ira, ma il bando contro i tre resta comunque in vigore.
 
 Ha un figlio segreto — vedi
 [[Figlio di Vargas (nome sconosciuto)]] — tenuto nascosto in uno studio

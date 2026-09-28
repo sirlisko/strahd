@@ -11,7 +11,7 @@ Custode della [[Chiesa di Vallaki]], dà rifugio a [[Ismark Kolyanovich]] e
 notturni dei vampiri di entrare. Il gruppo gli fa una donazione di 5 monete
 d'oro per i rifugiati.
 
-Rivela al gruppo che le reliquie di un santo — quelle che tenevano
+Rivela al gruppo che le reliquie di Sant'Andral — quelle che tenevano
 consacrata la chiesa — sono state rubate; le indagini portano alla
 [[Bottega del Becchino]], dove il gruppo le recupera dopo uno scontro con
 un gruppo di vampiri.

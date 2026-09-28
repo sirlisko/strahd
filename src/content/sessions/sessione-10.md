@@ -30,8 +30,8 @@ vere.
 
 Con un coltello alla gola, [[Artemis]] interroga il giovane legato — il
 [[Figlio di Vargas (nome sconosciuto)|figlio segreto di Barone Vargas]].
-Tra minacce e qualche schiaffo, l'incalzare di Artemis (in Draconico, per
-tenere all'oscuro [[Don Matteor]] presente) ottiene la storia completa:
+Tra minacce e qualche schiaffo, l'incalzare di Artemis (che si consulta con
+[[Erieth]] in Draconico per non farsi capire dal prigioniero) ottiene la storia completa:
 non è mai riuscito a far funzionare l'incantesimo da solo, ha trovato il
 grimorio nella biblioteca del padre senza sapere come ci fosse finito, e
 qualche sera prima un nobile incappucciato sconosciuto si è presentato
@@ -50,7 +50,7 @@ città, il ragazzo nega tutto, ma Artemis nota che abbassa lo sguardo
 proprio quando gli si chiede dei cappucci — segno che mente. Ammette
 invece, con riluttanza, che i suoi tentativi falliti di ripetere
 l'incantesimo sono costati la vita a due servitori di casa, tra cui
-probabilmente [[Gertrude]] stessa, e che è stato suo padre a trovarlo lì
+la stessa [[Gertrude]], e che è stato suo padre a trovarlo lì
 dentro dopo che l'incappucciato se n'era già andato — motivo per cui non
 gli ha mai raccontato nulla. Terminato l'interrogatorio, Artemis lo
 tramortisce con un colpo netto alla fronte, non letale.
@@ -103,8 +103,8 @@ Persa ormai l'unica pista rimasta sull'uomo incappucciato — svanito nel
 nulla col teletrasporto — il gruppo decide di dirigersi verso
 l'[[Accampamento dei Vistani]], ritenuti gli unici a sapere come lasciare
 le nebbie di Barovia, rimandando una tappa ad [[Argynvostholt]].
-[[Erieth]], guardando la lettera ancora sigillata di
-[[Strahd von Zarovich|Strahd]] sul tavolo, confessa di non essere più
+[[Erieth]], guardando la lettera di
+[[Strahd von Zarovich|Strahd]] ancora sul tavolo, confessa di non essere più
 così sicuro che il vampiro sia il loro vero nemico, viste le atrocità
 ben peggiori viste a Vallaki per mano di uomini vivi.
 
@@ -114,9 +114,11 @@ gruppo passa la notte nascosto nella [[Bottega del Becchino]], ormai
 libera dai vampiri, dopo che [[Urwin]] ha promesso di lasciare loro
 qualche corvo di guardia. Lungo il tragitto una pattuglia ferma
 [[Ismark Kolyanovich]] come straniero sospetto: [[Erieth]], nascosto,
-lo incanta con Suggestione convincendolo a scortare lui e i compagni
-fuori dalla città in sicurezza — la scorta, gentilissima, li accompagna
-fino al cancello e li lascia andare senza fare altre domande.
+incanta il capopattuglia con Suggestione convincendolo a scortare
+l'amico fuori dalla città — la scorta, gentilissima, accompagna Ismark
+fino al cancello e lo lascia andare senza fare altre domande. Fingendosi
+ubriaco, Ismark rientra poco dopo in città e raggiunge gli altri alla
+bottega.
 
 All'alba il gruppo recupera il carro da [[Urwin]] e lascia Vallaki,
 notando lungo la strada principale una tensione crescente tra cittadini e

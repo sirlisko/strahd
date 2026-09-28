@@ -8,7 +8,7 @@ luoghiVisitati: [Vallaki, Wizard of Wines, Locanda di Urwin, Chiesa di Vallaki]
 
 ## Arrivo alla locanda
 
-Il gruppo arriva a [[Vallaki]] con il carro del [[Wizard of Wines]],
+Il gruppo rientra a [[Vallaki]] con il carro del [[Wizard of Wines]],
 accompagnato da uno stormo di corvi. [[Artemis]] entra trionfalmente in
 piedi sulle botti. Prima di entrare nella locanda si discute animatamente
 sulla spartizione del carico.

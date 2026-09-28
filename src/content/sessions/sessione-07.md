@@ -33,8 +33,8 @@ uno stanzino polveroso al piano più alto.
 [[Erieth]] e [[Artemis]] trovano la [[Bottega del Becchino]] vuota e la
 ispezionano. Rinvengono una commissione scritta con elegante calligrafia,
 firmata [[P. (identità sconosciuta)|"P."]], che ordina bare con terra dentro — probabile contrabbando
-legato ai vampiri. Trovano anche una statuetta contenente un liquido
-medicinale misterioso (ancora da identificare) e 50 monete d'oro sotto il
+legato ai vampiri. Trovano anche due statuette contenenti liquidi
+misteriosi (ancora da identificare) e 50 monete d'oro sotto il
 letto.
 
 ## Assassinio di Padre Lucian Petrovich

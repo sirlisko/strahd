@@ -13,8 +13,8 @@ riportato a [[Vallaki]].
 Dai registri della cantina emergono rapporti non ostili con
 [[Strahd von Zarovich]] fino a qualche decennio fa, poi le spedizioni sono
 cessate. Su una testata di letto è intagliato un corvo simile al sigillo
-di Strahd. I druidi lavoravano per lui e gli avevano rubato una delle tre
-gemme del vino. La tenuta è amministrata dalla stessa famiglia da
+di Strahd. I druidi lavoravano per lui e avevano rubato alla cantina una
+delle tre gemme del vino. La tenuta è amministrata dalla stessa famiglia da
 generazioni, a quanto pare — un dettaglio che spiega quei rapporti
 antichi, poi interrotti, con Strahd.
 

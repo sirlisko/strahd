@@ -2,7 +2,6 @@
 titolo: Ismark Kolyanovich
 ruolo: Figlio del defunto Borgomastro del Villaggio di Barovia
 stato: vivo
-luogo: Vallaki
 estratto: Figlio di Kolyan Indirovich, ha chiesto al gruppo di scortare sua sorella Ireena fuori dal Villaggio di Barovia.
 ---
 
@@ -24,7 +23,8 @@ Durante la festa del Sole Splendente, Vargas ordina di disarmarlo ed
 espellerlo dalla città dopo essersi infuriato con [[Don Matteor]]; un
 incantesimo di quest'ultimo evita il peggio ma il bando resta in vigore.
 Fermato da una pattuglia come straniero sospetto durante la fuga notturna
-dalla città, viene scortato fuori sano e salvo grazie a una Suggestione
-lanciata da [[Erieth]] sul capopattuglia. Ora bandito da [[Vallaki]] insieme
-a Ireena e Don Matteor, parte con il gruppo verso l'
-[[Accampamento dei Vistani]].
+dalla città, viene scortato fino al cancello grazie a una Suggestione
+lanciata da [[Erieth]] sul capopattuglia, e rientra poco dopo fingendosi
+ubriaco per raggiungere gli altri. Ora bandito da [[Vallaki]] insieme
+a Ireena e Don Matteor, parte con il gruppo verso
+l'[[Accampamento dei Vistani]].

@@ -16,10 +16,11 @@ seguito gli incappucciati de [[I Veri Nobili di Vallaki]] fino al loro
 covo, e ha ispezionato con [[Erieth]] la [[Bottega del Becchino]] dove hanno
 trovato le statuette misteriose e la commissione di bare piene di terra.
 
-Durante l'infiltrazione nella villa di [[Barone Vargas]] è entrato da una
-finestra sul retro con una corda calata da [[Erieth]], evitando le guardie
-con un salto acrobatico silenzioso quando il piano è quasi saltato per un
-letto spostato rumorosamente.
+Durante l'infiltrazione nella villa di [[Barone Vargas]] ha tentato di
+entrare da una finestra sul retro con una corda calata da [[Erieth]]: quando
+il letto usato come ancoraggio è slittato rumorosamente, ha evitato le
+guardie con una capriola all'indietro silenziosa, nascondendosi in un
+cespuglio con [[Tariq]]. È poi salito con la corda fino alla soffitta.
 
 Nella soffitta segreta ha guidato l'interrogatorio del
 [[Figlio di Vargas (nome sconosciuto)|figlio di Barone Vargas]] e ne ha

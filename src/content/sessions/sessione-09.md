@@ -32,18 +32,18 @@ sollevata con Mano Magica.
 
 Con la corda assicurata, [[Artemis]] risale per primo (arrampicata
 tutt'altro che agevole, salvata da un aiuto di Mano Magica e da una presa
-di fortuna), seguito da [[Don Matteor]], appesantito dalla sua armatura.
+di fortuna), seguito da [[Tariq]].
 Tutti e tre si ritrovano nella grande soffitta. Nessuno ha ancora trovato
-lo specchio magico segnalato da Don Matteor dall'esterno.
+lo specchio magico segnalato da [[Don Matteor]] dall'esterno.
 
-Per tagliarsi una via di ritirata, bloccano dall'alto la botola che
+Per non essere seguiti, bloccano dall'alto la botola che
 collega alla camera padronale sottostante incastrandola con una lama.
 
 ## Il sentiero nella soffitta
 
 Procedono con cautela lungo il sentiero tra le cianfrusaglie — Tariq
 avanti (il più abile a percepire oggetti magici), Artemis attento a
-eventuali trappole, Don Matteor di retroguardia. Non trovano nulla di
+eventuali trappole. Non trovano nulla di
 valore tra vecchi quadri e oggetti d'antiquariato, né tracce di passi, né
 trappole lungo il percorso.
 

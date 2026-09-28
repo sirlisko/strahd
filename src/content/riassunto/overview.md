@@ -55,26 +55,27 @@ per Vallaki con Ismark e Ireena.
 
 ## Vallaki: le reliquie e il vino
 
-Le reliquie di un santo, rubate dalla [[Chiesa di Vallaki]] (che le teneva
+Le reliquie di Sant'Andral, rubate dalla [[Chiesa di Vallaki]] (che la tenevano
 consacrata), portano il gruppo alla [[Bottega del Becchino]]:
 [[Van der Vort]] manda a chiamare le guardie (che non arrivano mai) e
 sparisce. Al piano di sopra il gruppo trova le reliquie e un gruppo di
 vampiri che li attacca; fuggono, ne uccidono alcuni durante l'inseguimento
-e riportano le ossa in chiesa. Nella stessa bottega trovano un foglio con
+e riportano le ossa in chiesa. Tornati più tardi nella bottega, ormai
+vuota, trovano un foglio con
 l'ordine di riempire bare di terra, firmato [[P. (identità sconosciuta)|"P."]],
 e delle statuette con liquido non identificato.
 
 [[Urwin]] li manda a recuperare la fornitura di vino mancante al
 [[Wizard of Wines]]: la cantina è invasa da mostri-pianta guidati da
-druidi malvagi al servizio di Strahd, che gli avevano rubato una delle tre
-gemme del vino. Sgominati i druidi, il gruppo recupera il vino e lo
+druidi malvagi al servizio di Strahd, che avevano rubato alla cantina una
+delle tre gemme del vino. Sgominati i druidi, il gruppo recupera il vino e lo
 riporta a Vallaki. Dai registri della cantina emergono rapporti non
 ostili con Strahd fino a qualche decennio fa, poi cessati.
 
 Rientrati in camera, trovano una lettera con sigillo di ceralacca: Strahd
 si scusa per la maleducazione e li invita a cena al castello. Detect Magic
-rileva un'aura debole, non applicata a nessun oggetto o persona: la
-lettera resta sul tavolino della stanza, non accettata.
+non rileva nulla: la lettera non è magica. Resta sul tavolino della
+stanza, non accettata.
 
 ## Il quadro attuale a Vallaki
 
@@ -92,10 +93,7 @@ Dalla [[Villa del Borgomastro]] Don Matteor aveva rilevato due aure
 magiche: una era lo specchio che con una formula può evocare un assassino
 spettrale (mai trovato), l'altra si è rivelata essere lo studio segreto
 in soffitta del [[Figlio di Vargas (nome sconosciuto)|figlio segreto di
-Barone Vargas]], fonte dei bagliori viola visti dall'esterno — la stessa
-magia di trasporto vista all'inizio della campagna al [[Casolare fuori
-Goya|casolare fuori Goya]]. Il ragazzo
-è stato scoperto, interrogato e la sua morte inscenata da suicidio.
+Barone Vargas]], fonte dei bagliori viola visti dall'esterno (vedi sotto).
 
 [[I Veri Nobili di Vallaki|Una setta incappucciata]], riconducibile a una
 casata locale, è più setta che milizia: vestiti uguali, cappucci, nessuna
@@ -119,7 +117,7 @@ posizione ambigua, contraria ai druidi ma di lealtà incerta.
 Il patrono di Erieth gli ordina di uccidere "il prete", senza specificare
 quale. Erieth esegue in [[Chiesa di Vallaki|chiesa a Vallaki]] giocando tra
 invisibilità e oscurità, senza essere visto: la gente scappa urlando al
-demonio. Lascia vicino al corpo un pugnale rubato dalla bottega del
+demonio. Lascia vicino al corpo un punteruolo rubato dalla bottega del
 becchino per far ricadere la colpa su di lui. Il cielo si addensa in nubi
 pesanti e vorticose sopra Barovia.
 
@@ -129,17 +127,17 @@ Durante la festa del Sole Splendente, il gruppo si infiltra nella
 [[Villa del Borgomastro]] alla ricerca dello specchio magico. Non lo
 trova, ma scopre nella soffitta uno studio segreto dove il figlio di
 [[Barone Vargas]] studiava magia proibita — la stessa magia di trasporto
-già vista al [[Casolare fuori Goya|casolare fuori Goya]] — insegnatagli in
-parte da un misterioso nobile
-incappucciato mai identificato. Il gruppo lo interroga e ne inscena il
+già vista al [[Casolare fuori Goya|casolare fuori Goya]] — che un
+misterioso nobile incappucciato, mai identificato, aveva attivato davanti
+a lui prima di sparire. Il gruppo lo interroga e ne inscena il
 suicidio.
 
 Nel frattempo, in piazza, [[Don Matteor]] evita con un discorso pubblico e
 un incantesimo una carneficina, ma si inimica [[Barone Vargas]] al punto
 da farsi bandire da [[Vallaki]] insieme a [[Ismark Kolyanovich]] e
 [[Ireena]]. Il gruppo lascia la città all'alba, nascosto per la notte
-nella [[Bottega del Becchino]] ed evitando le pattuglie grazie a una
+nella [[Bottega del Becchino]] dopo aver sviato una pattuglia con una
 Suggestione di [[Erieth]], diretto verso l'[[Accampamento dei Vistani]] —
 ritenuti gli unici a sapere come lasciare le nebbie di Barovia. Erieth,
-riflettendo sulla lettera di Strahd ancora intonsa, comincia a dubitare
+riflettendo sull'invito di Strahd ancora sul tavolo, comincia a dubitare
 che il vampiro sia davvero il loro nemico principale.

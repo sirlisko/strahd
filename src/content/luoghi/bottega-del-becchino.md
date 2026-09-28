@@ -10,8 +10,11 @@ trova le reliquie rubate della [[Chiesa di Vallaki]], custodite da un
 gruppo di vampiri che li attacca — sconfitti durante la fuga e
 l'inseguimento sul carro.
 
-Nella bottega vengono trovati anche un foglio con un ordine di riempire
+Alla seconda visita la bottega risulta vuota: Van der Vort è scomparso.
+[[Erieth]] e [[Artemis]] vi trovano un foglio con un ordine di riempire
 bare di terra, firmato [[P. (identità sconosciuta)|"P."]], due statuette con liquidi misteriosi (poi
 identificate da [[Tariq]] come una pozione di cura ferite e una pozione
-che riduce la Forza) e 50 monete d'oro sotto il letto. Alla seconda visita
-la bottega risulta vuota: Van der Vort è scomparso.
+che riduce la Forza) e 50 monete d'oro sotto il letto.
+
+La notte prima di lasciare [[Vallaki]], ormai libera dai vampiri, fa da
+nascondiglio al gruppo, sorvegliata da qualche corvo di [[Urwin]].

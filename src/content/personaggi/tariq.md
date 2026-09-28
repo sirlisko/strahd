@@ -22,9 +22,10 @@ infangati di [[Erieth]] durante l'infiltrazione nella villa. Non dispone di
 magia di comunicazione a lunga distanza, ma può piazzare allarmi,
 identificare oggetti magici e ha Calm Emotions preparata.
 
-Nella soffitta segreta della villa ha identificato gli anelli sottratti al
-[[Figlio di Vargas (nome sconosciuto)|figlio di Barone Vargas]] (uno con
-lo stemma dei Vallakovic) e studiato il grimorio lì trovato: contiene
+Tornato alla [[Locanda di Urwin]] ha identificato gli anelli sottratti al
+[[Figlio di Vargas (nome sconosciuto)|figlio di Barone Vargas]] nella
+soffitta segreta della villa (uno con lo stemma dei Vallakovic) e studiato
+il grimorio trovato lì: contiene
 trucchetti e incantesimi fino al quinto livello, segno che chi lo
 possedeva in origine fosse un incantatore di potere straordinario (almeno
 decimo livello).

@@ -14,9 +14,9 @@ usanze contro le creature della notte che nessuno in paese osa abbandonare.
 Il villaggio è cinto da una rozza palizzata di legno, poco più che un
 gesto simbolico contro ciò che vaga oltre i suoi confini.
 
-Poco fuori dal villaggio il gruppo trova il corpo del borgomastro
-[[Kolyan Indirovich]], con un biglietto che sconsigliava ai forestieri di
-entrare in queste terre. Nella sua casa, la notte prima della sepoltura, il
+Il borgomastro [[Kolyan Indirovich]] — autore della lettera trovata nella
+nebbia, che sconsigliava ai forestieri di entrare in queste terre — è
+appena morto. Nella sua casa, la notte prima della sepoltura, il
 gruppo assiste a una processione di spettri — perlopiù guerrieri — che
 marciano in fila verso il [[Castello Ravenloft]].
 

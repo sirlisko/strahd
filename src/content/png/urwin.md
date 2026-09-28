@@ -27,8 +27,9 @@ Abbandonata]], su [[Izek]] e sul profilo di [[Barone Vargas]] (vanità,
 odio per Strahd, pretese dinastiche, il nervo scoperto della "felicità").
 
 Dopo che [[Don Matteor]] viene bandito da Vallaki insieme a
-[[Ismark Kolyanovich]] e [[Ireena]], Urwin offre rifugio (nascondendo il
-carro del gruppo nella [[Bottega del Becchino]] per la notte) e una pista:
+[[Ismark Kolyanovich]] e [[Ireena]], Urwin custodisce il carro del gruppo
+fino all'alba, lascia qualche corvo di guardia alla [[Bottega del Becchino]]
+dove il gruppo passa la notte, e offre una pista:
 un'antica casata locale (nome incerto, forse "Oster"), un tempo al
 servizio di [[Strahd von Zarovich]] prima che diventasse ciò che è ora,
 ora proprietaria di terre fuori città e con qualche capacità magica nella
