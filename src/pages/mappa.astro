@@ -120,7 +120,7 @@ function smooth(pts: P[]) {
         const visited = visitedUrls.has(`/luoghi/${n.id}`);
         const title = n.entry!.data.titolo;
         const r = n.large ? 18 : 13;
-        const labelWidth = title.length * 11 + 24;
+        const labelWidth = title.length * 14.5 + 32;
         return (
           <a href={`/luoghi/${n.id}`} class="map-pin-link">
             {n.large && <circle cx={n.x} cy={n.y} r={r * 4} fill="url(#castle-glow)" />}
@@ -132,15 +132,15 @@ function smooth(pts: P[]) {
             />
             <rect
               x={n.x - labelWidth / 2}
-              y={n.y - r - 44}
+              y={n.y - r - 56}
               width={labelWidth}
-              height="32"
+              height="42"
               rx="4"
               class="map-pin-label-bg"
             />
             <text
               x={n.x}
-              y={n.y - r - 21}
+              y={n.y - r - 26}
               class:list={['map-pin-label', { 'map-pin-label-unknown': !visited }]}
               text-anchor="middle"
             >
@@ -151,6 +151,7 @@ function smooth(pts: P[]) {
       })}
     </svg>
   </div>
+  <p class="map-hint">Trascina la mappa per esplorare la valle.</p>
 
   <div class="map-legend">
     <span class="map-legend-item"><span class="map-legend-dot map-legend-dot-visited" aria-hidden="true"></span>Visitato</span>

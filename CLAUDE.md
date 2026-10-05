@@ -80,7 +80,17 @@ scope, e.g. `feat(content): add sessione-11`,
   entity doesn't break the build: it renders as text styled as a "broken
   link" and logs a console warning — handy for spotting typos.
 - Backlinks ("Menzionato in") are computed by `src/lib/backlinks.ts` by
-  scanning the markdown body of every entry.
+  scanning the markdown body of every entry, plus each session's
+  `luoghiVisitati`.
+- Session pages get margin notes on wide screens: `remark-wikilinks.mjs`
+  lists, after each `##` heading, the NPCs and places mentioned there for
+  the first time, with their `ruolo` (or `tipo`) and a † when `stato` is
+  `morto`. Keep `ruolo` short: it's what the margin shows.
+- Astro caches rendered markdown in `node_modules/.astro/data-store.json` and
+  doesn't notice changes to the remark plugins: delete that file after
+  editing them, or old renders stick around.
+- Dark mode follows the system setting (the color tokens in
+  `src/styles/global.css`); the map keeps the light palette.
 - In `astro dev`, a new file added to `src/content/` may not be picked up
   right away by already-cached wikilinks: restart the dev server after
   adding new entities.

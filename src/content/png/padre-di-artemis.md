@@ -1,6 +1,6 @@
 ---
 titolo: Padre di Artemis (nome sconosciuto)
-ruolo: Padre di Artemis
+ruolo: Anziano residente di Goya
 stato: vivo
 luogo: Goya
 estratto: Anziano residente di Goya, bersaglio della vendetta di alcuni lestofanti per colpa del figlio Artemis.

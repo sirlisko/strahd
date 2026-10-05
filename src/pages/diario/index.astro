@@ -1,7 +1,5 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import CardGrid from '../../components/CardGrid.astro';
-import Card from '../../components/Card.astro';
 import { getCollection } from 'astro:content';
 import { toRoman, longDate } from '../../lib/format';
 
@@ -10,14 +8,17 @@ const sessions = (await getCollection('sessions')).sort((a, b) => b.data.numero 
 <BaseLayout title="Diario" description="Il diario di tutte le sessioni della campagna, dalla prima all'ultima, con il racconto di ciò che la compagnia ha vissuto.">
   <h1 class="page-title">Diario delle sessioni</h1>
   <p class="page-lede">Il resoconto di ogni serata di gioco, dalla più recente.</p>
-  <CardGrid>
+
+  <ol class="timeline">
     {sessions.map((s) => (
-      <Card
-        href={`/diario/${s.id}`}
-        title={s.data.titolo}
-        excerpt={s.data.estratto}
-        meta={`Sessione ${toRoman(s.data.numero)} · ${longDate(s.data.data)}`}
-      />
+      <li class="timeline-item">
+        <span class="timeline-marker" aria-hidden="true"></span>
+        <div class="timeline-body">
+          <span class="timeline-meta">Sessione {toRoman(s.data.numero)} · {longDate(s.data.data)}</span>
+          <a class="timeline-title" href={`/diario/${s.id}`}>{s.data.titolo}</a>
+          {s.data.estratto && <p class="timeline-excerpt">{s.data.estratto}</p>}
+        </div>
+      </li>
     ))}
-  </CardGrid>
+  </ol>
 </BaseLayout>

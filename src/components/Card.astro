@@ -7,7 +7,8 @@ interface Props {
   status?: string;
   image?: string;
 }
-const { href, title, excerpt, meta, status, image } = Astro.props;
+const { href, title, excerpt, meta, image } = Astro.props;
+const status = Astro.props.status === 'vivo' ? undefined : Astro.props.status;
 ---
 <a class="card" href={href}>
   {image && <img class="card-image" src={image} alt="" loading="lazy" />}

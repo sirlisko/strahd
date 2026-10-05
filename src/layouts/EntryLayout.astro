@@ -11,7 +11,8 @@ interface Props {
   backlinksUrl: string;
   image?: string;
 }
-const { title, description, meta, status, tags = [], backlinksUrl, image } = Astro.props;
+const { title, description, meta, tags = [], backlinksUrl, image } = Astro.props;
+const status = Astro.props.status === 'vivo' ? undefined : Astro.props.status;
 
 const sections: Record<string, string> = {
   diario: 'Diario',

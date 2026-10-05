@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import EntryLayout from '../../layouts/EntryLayout.astro';
+import { fullPortrait } from '../../lib/portraits';
 
 export async function getStaticPaths() {
   const characters = await getCollection('personaggi');
@@ -23,7 +24,7 @@ const meta = [entry.data.classe, entry.data.giocatore && `Giocatore: ${entry.dat
   status={entry.data.stato}
   tags={entry.data.tag}
   backlinksUrl={`/personaggi/${entry.id}`}
-  image={entry.data.immagine}
+  image={fullPortrait(entry.id) ?? entry.data.immagine}
 >
   <Content />
 </EntryLayout>

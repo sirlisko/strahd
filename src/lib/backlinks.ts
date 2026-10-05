@@ -1,7 +1,7 @@
 import { getCollection } from 'astro:content';
 import { getSlugMap, normalize, WIKILINK_RE } from './wikilinks.mjs';
 
-type Backlink = { title: string; url: string };
+type Backlink = { title: string; url: string; numero?: number };
 
 let backlinkCache: Map<string, Backlink[]> | null = null;
 
@@ -17,14 +17,20 @@ async function buildBacklinkIndex() {
       const sourceEntry = slugMap.get(normalize(entry.data.titolo ?? entry.id));
       if (!sourceEntry) continue;
 
-      WIKILINK_RE.lastIndex = 0;
-      let match;
-      while ((match = WIKILINK_RE.exec(entry.body ?? ''))) {
-        const target = slugMap.get(normalize(match[1]));
+      const names = [...(entry.body ?? '').matchAll(WIKILINK_RE)].map((m) => m[1]);
+      // Sessions often name the place they're in as plain text.
+      if ('luoghiVisitati' in entry.data) names.push(...entry.data.luoghiVisitati);
+
+      for (const name of names) {
+        const target = slugMap.get(normalize(name));
         if (!target || target.url === sourceEntry.url) continue;
         const list = index.get(target.url) ?? [];
         if (!list.some((l) => l.url === sourceEntry.url)) {
-          list.push({ title: sourceEntry.title, url: sourceEntry.url });
+          list.push({
+            title: sourceEntry.title,
+            url: sourceEntry.url,
+            numero: 'numero' in entry.data ? entry.data.numero : undefined,
+          });
         }
         index.set(target.url, list);
       }

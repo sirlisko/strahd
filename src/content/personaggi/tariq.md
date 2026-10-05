@@ -3,7 +3,7 @@ titolo: Tariq Cornelius
 stato: vivo
 estratto: Studioso di magia con un gufo famiglio, esperto nell'identificare oggetti magici.
 immagine: /images/personaggi/tariq.png
-tag: [Wizard]
+classe: Mago
 ---
 
 Si unisce a [[Erieth]] nell'inseguimento de [[I Fratelli Banditi|i fratelli

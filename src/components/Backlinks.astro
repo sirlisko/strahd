@@ -1,19 +1,47 @@
 ---
 import { getBacklinksFor } from '../lib/backlinks';
+import { toRoman } from '../lib/format';
 
 interface Props {
   url: string;
 }
 const { url } = Astro.props;
-const backlinks = await getBacklinksFor(url);
+const backlinks = (await getBacklinksFor(url)).toSorted((a, b) => (a.numero ?? 0) - (b.numero ?? 0));
+
+// The riassunto mentions nearly everything, so it's left out.
+const sections = [
+  { prefix: 'diario', label: 'Sessioni' },
+  { prefix: 'personaggi', label: 'Personaggi' },
+  { prefix: 'png', label: 'Png' },
+  { prefix: 'luoghi', label: 'Luoghi' },
+]
+  .map((s) => ({ ...s, links: backlinks.filter((l) => l.url.split('/')[1] === s.prefix) }))
+  .filter((s) => s.links.length > 0);
 ---
-{backlinks.length > 0 && (
+{sections.length > 0 && (
   <div class="backlinks">
     <h2>Menzionato in</h2>
-    <ul>
-      {backlinks.map((link) => (
-        <li><a href={link.url}>{link.title}</a></li>
+    <dl>
+      {sections.map((s) => (
+        <>
+          <dt>{s.label}</dt>
+          <dd>
+            <ul class:list={{ 'backlinks-sessions': s.prefix === 'diario' }}>
+              {s.links.map((link) =>
+                link.numero ? (
+                  <li>
+                    <a href={link.url} title={link.title} aria-label={`Sessione ${toRoman(link.numero)}: ${link.title}`}>
+                      {toRoman(link.numero)}
+                    </a>
+                  </li>
+                ) : (
+                  <li><a href={link.url}>{link.title}</a></li>
+                )
+              )}
+            </ul>
+          </dd>
+        </>
       ))}
-    </ul>
+    </dl>
   </div>
 )}
