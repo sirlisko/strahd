@@ -1,7 +1,5 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import CardGrid from '../../components/CardGrid.astro';
-import Card from '../../components/Card.astro';
 import { getCollection } from 'astro:content';
 
 const npcs = (await getCollection('png')).sort((a, b) => a.data.titolo.localeCompare(b.data.titolo));
@@ -9,15 +7,22 @@ const npcs = (await getCollection('png')).sort((a, b) => a.data.titolo.localeCom
 <BaseLayout title="PNG" description="I personaggi non giocanti incontrati dalla compagnia: alleati, nemici e figure misteriose.">
   <h1 class="page-title">Personaggi Non Giocanti</h1>
   <p class="page-lede">Alleati, nemici e comparse incontrate a Barovia.</p>
-  <CardGrid>
+  <ul class="playbill">
     {npcs.map((p) => (
-      <Card
-        href={`/png/${p.id}`}
-        title={p.data.titolo}
-        excerpt={p.data.estratto}
-        meta={[p.data.ruolo, p.data.luogo].filter(Boolean).join(' · ')}
-        status={p.data.stato}
-      />
+      <li>
+        <a class="playbill-name" href={`/png/${p.id}`}>
+          {p.data.titolo}
+          {p.data.stato === 'morto' && (
+            <><span class="playbill-dagger" aria-hidden="true">&dagger;</span><span class="sr-only">(morto)</span></>
+          )}
+        </a>
+        <span class="playbill-role">
+          {p.data.ruolo}
+          {p.data.stato !== 'vivo' && p.data.stato !== 'morto' && (
+            <>{p.data.ruolo && ' · '}<span class="playbill-status">{p.data.stato}</span></>
+          )}
+        </span>
+      </li>
     ))}
-  </CardGrid>
+  </ul>
 </BaseLayout>

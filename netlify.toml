@@ -4,3 +4,9 @@
 
 [build.environment]
   NODE_VERSION = "24"
+
+# Cronologia was merged into Diario.
+[[redirects]]
+  from = "/cronologia"
+  to = "/diario/"
+  status = 301

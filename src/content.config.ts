@@ -1,10 +1,11 @@
 import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
+import { curlyQuotes } from './lib/wikilinks.mjs';
 
 const baseFields = {
   titolo: z.string(),
-  estratto: z.string().max(300).optional(),
+  estratto: z.string().max(300).transform(curlyQuotes).optional(),
   immagine: z.string().optional(),
   tag: z.array(z.string()).default([]),
 };
@@ -34,7 +35,7 @@ const png = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/png' }),
   schema: z.object({
     ...baseFields,
-    ruolo: z.string().optional(),
+    ruolo: z.string().transform(curlyQuotes).optional(),
     stato: z.enum(['vivo', 'morto', 'scomparso', 'sconosciuto']).default('vivo'),
     fazione: z.string().optional(),
     luogo: z.string().optional(),

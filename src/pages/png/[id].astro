@@ -12,7 +12,9 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const meta = [entry.data.ruolo, entry.data.luogo, entry.data.fazione].filter(Boolean).join(' · ');
+const { ruolo, luogo, fazione } = entry.data;
+// Skip the place when the role already names it ("Serva della Villa del Borgomastro").
+const meta = [ruolo, luogo && !ruolo?.includes(luogo) && luogo, fazione].filter(Boolean).join(' · ');
 ---
 <EntryLayout
   title={entry.data.titolo}
