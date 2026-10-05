@@ -28,3 +28,14 @@ inscenato il suicidio per impiccagione. Prima della partenza per
 l'[[Accampamento dei Vistani]], ha scambiato battute criptiche con
 [[Rictavio]], che ha lasciato intendere di sapere più di quanto dica su di
 lui.
+
+Sulla strada per l'[[Accampamento dei Vistani]] ha confidato in lingua
+drow a [[Erieth]] di aver riscoperto quanto sia ancora viva la propria
+natura drow, pur essendo cresciuto tra gli umani, e di considerarlo la
+cosa più vicina alla sua stirpe. Nell'imboscata sulla strada ha ucciso un
+lupo mannaro con un pugnale alla gola, ha intuito per primo che la
+bambina da salvare era troppo pesante per essere ciò che sembrava ed è
+stato ferito di striscio da una vampira, prima di coprire la fuga con una
+sfera di oscurità; [[Don Matteor]] lo ha poi curato. All'accampamento
+ha lasciato a [[Ismark Kolyanovich]] e [[Ireena]] — che tratta da pedine
+e "diversivo" — la guardia del carro.

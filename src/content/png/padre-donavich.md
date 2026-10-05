@@ -15,3 +15,8 @@ qualcosa di simile a Strahd stesso.
 
 Da non confondere con [[Padre Lucian Petrovich]], il sacerdote di
 [[Vallaki]].
+
+Al fuoco dell'[[Accampamento dei Vistani]] un cantastorie racconta la
+stessa spedizione dal punto di vista di chi l'ha vista: il mago sfidò
+[[Strahd von Zarovich|Strahd]] fino a un precipizio sopra le cascate e
+precipitò nel fiume.

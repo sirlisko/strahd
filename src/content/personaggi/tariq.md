@@ -29,3 +29,8 @@ il grimorio trovato lì: contiene
 trucchetti e incantesimi fino al quinto livello, segno che chi lo
 possedeva in origine fosse un incantatore di potere straordinario (almeno
 decimo livello).
+
+Nell'imboscata sulla strada per l'[[Accampamento dei Vistani]] il suo
+gufo ha individuato in anticipo il carro assediato dai lupi; Tariq ha poi
+aperto lo scontro con quattro raggi roventi, bloccato il branco con uno
+Schema Ipnotico e colpito un lupo con un Globo Cromatico.

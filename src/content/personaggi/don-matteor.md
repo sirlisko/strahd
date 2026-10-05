@@ -34,3 +34,13 @@ città. Un
 incantesimo lanciato appena in tempo ha placato l'ostilità di Vargas e
 Izek, salvando la situazione, ma il bando contro Don Matteor, Ismark e
 Ireena resta comunque in vigore: tutti e tre sono ora banditi da Vallaki.
+
+Contrario ad andare dai Vistani prima di aver trovato altri alleati, ha
+viaggiato teso e silenzioso, rifiutando l'idea di presentarsi da
+[[Strahd von Zarovich|Strahd]] "senza carte da giocare". È stato lui a
+sentire per primo la richiesta d'aiuto che nascondeva l'imboscata sulla
+strada; con Individuazione del Male e del Bene ha smascherato l'anziano e
+le due bambine come non-morti malvagi, poi ha guidato il carro fuori dalla
+trappola colpendo una vampira con una Fiamma Sacra. Ha curato [[Artemis]]
+e, all'[[Accampamento dei Vistani]], ha offerto ai Vistani le razioni
+avute da [[Urwin]].

@@ -141,3 +141,20 @@ Suggestione di [[Erieth]], diretto verso l'[[Accampamento dei Vistani]] —
 ritenuti gli unici a sapere come lasciare le nebbie di Barovia. Erieth,
 riflettendo sull'invito di Strahd ancora sul tavolo, comincia a dubitare
 che il vampiro sia davvero il loro nemico principale.
+
+## All'accampamento dei Vistani
+
+Sulla strada per l'[[Accampamento dei Vistani]] il gruppo cade in una
+trappola: un anziano e due bambine apparentemente assediati dai lupi si
+rivelano non-morti — le bambine sono vampire guerriere, i lupi mannari.
+Scampati grazie al carro, sentono l'anziano dire loro nella mente
+"Sapevo che non mi avreste deluso" prima di dissolversi in nebbia: forse
+[[Strahd von Zarovich|Strahd]] in persona.
+
+All'accampamento i Vistani accolgono il gruppo con calore. Un
+cantastorie racconta di aver visto morire il mago che, più di un anno
+fa, aveva guidato i contadini contro il [[Castello Ravenloft]] —
+precipitato nel fiume dopo un duello con Strahd. Nello stesso periodo è
+comparso un mago pazzo che scaglia fulmini attorno a un lago a nord di
+[[Vallaki]]: il gruppo sospetta un collegamento. Il cantastorie li
+indirizza da [[Madama Eva]], nella tenda più grande.

@@ -20,3 +20,12 @@ cantina una delle tre gemme del vino.
 
 Il patrono di [[Erieth]] considera il potere di Strahd "di gran lunga
 inferiore" al proprio.
+
+Sulla strada per l'[[Accampamento dei Vistani]] il gruppo cade in una
+trappola tesa da un anziano non-morto con lupi mannari e due vampire
+travestite da bambine; dissolvendosi in nebbia, l'anziano dice loro nella
+mente "Sapevo che non mi avreste deluso". Il gruppo sospetta che fosse
+Strahd stesso, ma non ne ha la certezza. Al fuoco dei Vistani un
+cantastorie racconta di averlo visto sconfiggere, più di un anno fa, il
+mago che aveva guidato i contadini contro il castello, e dice che
+conquistò queste terre di diritto molto tempo fa.

@@ -28,3 +28,10 @@ lanciata da [[Erieth]] sul capopattuglia, e rientra poco dopo fingendosi
 ubriaco per raggiungere gli altri. Ora bandito da [[Vallaki]] insieme
 a Ireena e Don Matteor, parte con il gruppo verso
 l'[[Accampamento dei Vistani]].
+
+Lungo la strada ha raccontato al gruppo le voci sul [[Mulino in Rovina]],
+che si dice infestato. Nell'imboscata sulla strada una vampira lo ha
+attaccato, restando con gli artigli incastrati nella sponda del carro.
+Arrivato all'[[Accampamento dei Vistani]] si mostra nervoso e diffidente
+("un raggiro dopo l'altro") e resta con [[Ireena]] a sorvegliare il
+carro.

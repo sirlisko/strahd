@@ -42,3 +42,14 @@ chiesto anche di un certo "Polov", senza risultato. Riflettendo
 sull'invito di Strahd rimasto sul tavolo, ha iniziato a dubitare che il vampiro sia davvero il
 loro nemico principale, viste le azioni ben peggiori a cui ha assistito a
 [[Vallaki]].
+
+Diretto all'[[Accampamento dei Vistani]], ha proposto a [[Don Matteor]]
+di andare a sentire cosa abbia da dire [[Strahd von Zarovich|Strahd]] al
+castello, e ha letto la situazione come uno scontro tra due schieramenti:
+Strahd, Vistani e druidi da una parte, [[Vallaki]] e i cavalieri di
+[[Argynvostholt]] dall'altra. [[Artemis]] gli ha dichiarato la propria
+fiducia; Erieth lo ha messo in guardia dal fidarsi troppo. Nell'imboscata
+sulla strada ha respinto un lupo e due vampire a colpi di Eldritch Blast,
+vedendo attraverso l'oscurità magica con la vista del diavolo. Al fuoco
+dei Vistani ha chiesto al cantastorie del mago pazzo del lago a nord di
+Vallaki, sospettandone un legame col mago che sfidò Strahd.
