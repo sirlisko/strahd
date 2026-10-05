@@ -3,7 +3,7 @@ titolo: Erieth
 stato: vivo
 estratto: Legato a un misterioso patrono a cui riferisce tramite un rituale di sangue; esegue i suoi ordini senza fare domande.
 immagine: /images/personaggi/erieth.png
-tag: [warlock]
+classe: Warlock
 ---
 
 Ha un patrono a cui riferisce regolarmente tramite un rituale (si taglia la

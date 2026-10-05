@@ -3,7 +3,7 @@ titolo: Artemis
 stato: vivo
 estratto: Infiltratore del gruppo, abile nel furtivo e nell'invisibilità.
 immagine: /images/personaggi/artemis.png
-tag: [Rogue]
+classe: Ladro
 ---
 
 Origine del gruppo: attira l'odio de [[I Fratelli Banditi|alcuni

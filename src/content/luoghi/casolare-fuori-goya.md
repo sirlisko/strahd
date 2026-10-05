@@ -2,7 +2,7 @@
 titolo: Casolare fuori Goya
 tipo: casolare
 regione: Morgren
-estratto: Rifugio di campagna de I Fratelli Banditi, teatro di un'imboscata e, la notte successiva, punto di passaggio magico verso Barovia.
+estratto: Rifugio di campagna dei Fratelli Banditi, teatro di un'imboscata e, la notte successiva, punto di passaggio magico verso Barovia.
 ---
 
 Individuato grazie alle indagini del gruppo nelle locande di [[Goya]]: alcuni

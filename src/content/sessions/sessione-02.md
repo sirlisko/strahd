@@ -2,7 +2,7 @@
 titolo: L'imboscata al casolare
 numero: 2
 data: 2026-04-01
-estratto: Le indagini nelle locande di Goya portano il gruppo a un casolare di campagna, dove tende un'imboscata a un gruppo de I Fratelli Banditi.
+estratto: Le indagini nelle locande di Goya portano il gruppo a un casolare di campagna, dove tende un'imboscata a un gruppo dei Fratelli Banditi.
 luoghiVisitati: [Goya, Casolare fuori Goya]
 ---
 
