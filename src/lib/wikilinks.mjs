@@ -66,7 +66,7 @@ export function getSlugMap() {
     if (!fs.existsSync(dir)) continue;
 
     for (const file of fs.readdirSync(dir)) {
-      if (!file.endsWith('.md')) continue;
+      if (!file.endsWith('.md') || file.startsWith('_')) continue;
       const id = file.replace(/\.md$/, '');
       const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
       const title = frontmatterField(raw, 'titolo') ?? id;
