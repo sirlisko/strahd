@@ -11,7 +11,7 @@ const baseFields = {
 };
 
 const sessions = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/sessions' }),
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/sessions' }),
   schema: z.object({
     ...baseFields,
     numero: z.number().int().positive(),
@@ -21,7 +21,7 @@ const sessions = defineCollection({
 });
 
 const personaggi = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/personaggi' }),
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/personaggi' }),
   schema: z.object({
     ...baseFields,
     giocatore: z.string().optional(),
@@ -32,7 +32,7 @@ const personaggi = defineCollection({
 });
 
 const png = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/png' }),
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/png' }),
   schema: z.object({
     ...baseFields,
     ruolo: z.string().transform(curlyQuotes).optional(),
@@ -43,7 +43,7 @@ const png = defineCollection({
 });
 
 const luoghi = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/luoghi' }),
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/luoghi' }),
   schema: z.object({
     ...baseFields,
     tipo: z.string().optional(),
@@ -52,7 +52,7 @@ const luoghi = defineCollection({
 });
 
 const riassunto = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/riassunto' }),
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/riassunto' }),
   schema: z.object({
     titolo: z.string(),
   }),
