@@ -6,31 +6,12 @@ immagine: /images/personaggi/tariq.png
 classe: Mago
 ---
 
-Si unisce a [[Erieth]] nell'inseguimento de [[I Fratelli Banditi|i fratelli
-banditi]] che avevano attaccato il [[Padre di Artemis (nome
-sconosciuto)|padre di Artemis]] a [[Goya]], affrontandoli insieme a Erieth,
-[[Artemis]] e [[Don Matteor]] nello scontro che dà origine al gruppo.
+Si unisce a [[Erieth]] nell'inseguimento de [[I Fratelli Banditi|i fratelli banditi]] che avevano attaccato il [[Padre di Artemis (nome sconosciuto)|padre di Artemis]] a [[Goya]], affrontandoli insieme a Erieth, [[Artemis]] e [[Don Matteor]] nello scontro che dà origine al gruppo.
 
-Ha un gufo come famiglio, usato per la ricognizione a distanza (telepatico
-entro 30 piedi) — è servito a individuare le stanze della [[Villa del
-Borgomastro]] e a fare da vedetta durante l'infiltrazione.
+Ha un gufo come famiglio, usato per la ricognizione a distanza (telepatico entro 30 piedi) — è servito a individuare le stanze della [[Villa del Borgomastro]] e a fare da vedetta durante l'infiltrazione.
 
-Ha identificato le due statuette trovate nella [[Bottega del Becchino]]:
-una pozione di cura ferite e una pozione che riduce la Forza di chi la
-beve. Ha anche ripulito con un tocco di prestidigitazione gli scarponi
-infangati di [[Erieth]] durante l'infiltrazione nella villa. Non dispone di
-magia di comunicazione a lunga distanza, ma può piazzare allarmi,
-identificare oggetti magici e ha Calm Emotions preparata.
+Ha identificato le due statuette trovate nella [[Bottega del Becchino]]: una pozione di cura ferite e una pozione che riduce la Forza di chi la beve. Ha anche ripulito con un tocco di prestidigitazione gli scarponi infangati di [[Erieth]] durante l'infiltrazione nella villa. Non dispone di magia di comunicazione a lunga distanza, ma può piazzare allarmi, identificare oggetti magici e ha Calm Emotions preparata.
 
-Tornato alla [[Locanda di Urwin]] ha identificato gli anelli sottratti al
-[[Figlio di Vargas (nome sconosciuto)|figlio di Barone Vargas]] nella
-soffitta segreta della villa (uno con lo stemma dei Vallakovic) e studiato
-il grimorio trovato lì: contiene
-trucchetti e incantesimi fino al quinto livello, segno che chi lo
-possedeva in origine fosse un incantatore di potere straordinario (almeno
-decimo livello).
+Tornato alla [[Locanda di Urwin]] ha identificato gli anelli sottratti al [[Figlio di Vargas (nome sconosciuto)|figlio di Barone Vargas]] nella soffitta segreta della villa (uno con lo stemma dei Vallakovic) e studiato il grimorio trovato lì: contiene trucchetti e incantesimi fino al quinto livello, segno che chi lo possedeva in origine fosse un incantatore di potere straordinario (almeno decimo livello).
 
-Nell'imboscata sulla strada per l'[[Accampamento dei Vistani]] il suo
-gufo ha individuato in anticipo il carro assediato dai lupi; Tariq ha poi
-aperto lo scontro con quattro raggi roventi, bloccato il branco con uno
-Schema Ipnotico e colpito un lupo con un Globo Cromatico.
+Nell'imboscata sulla strada per l'[[Accampamento dei Vistani]] il suo gufo ha individuato in anticipo il carro assediato dai lupi; Tariq ha poi aperto lo scontro con quattro raggi roventi, bloccato il branco con uno Schema Ipnotico e colpito un lupo con un Globo Cromatico.

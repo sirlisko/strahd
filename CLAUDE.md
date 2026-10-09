@@ -1,121 +1,45 @@
 # Curse of Strahd — project conventions
 
-Companion site for a Curse of Strahd (D&D 5e) campaign, built with Astro. The
-sections (diario, riassunto, personaggi, PNG, luoghi) are cross-linked with
-Obsidian-style wikilinks.
+Companion site for a Curse of Strahd (D&D 5e) campaign, built with Astro. The sections (diario, riassunto, personaggi, PNG, luoghi) are cross-linked with Obsidian-style wikilinks.
 
-**Language:** all site content (everything under `src/content/` and any
-user-visible text in pages/components) is written in **Italian**. Code,
-comments, commit messages and docs are in English. Collection names,
-frontmatter keys and URL routes are Italian and must stay that way.
+**Language:** all site content (everything under `src/content/` and any user-visible text in pages/components) is written in **Italian**. Code, comments, commit messages and docs are in English. Collection names, frontmatter keys and URL routes are Italian and must stay that way.
 
 ## Content conventions
 
 These apply to every content edit, by hand or through a skill.
 
-- **Session updates:** when the user pastes a session transcript or points
-  at one (e.g. `audio/session-NN.txt`), use the `new-session` skill
-  (`.claude/skills/new-session/SKILL.md`). It covers the whole procedure:
-  session file, new and updated entities, overview, map, verification.
-- **Renames and merges:** to rename an entity or merge duplicates, use the
-  `rename-entity` skill (`.claude/skills/rename-entity/SKILL.md`). Never
-  change a `titolo` or a filename by hand: wikilinks, backlinks and the
-  page URL (already indexed by search engines) depend on them.
-- **No real names:** the site is public and indexed. Players appear only
-  as their characters — never write a player's real name anywhere in
-  `src/content/`, even though transcripts are full of them. Leave
-  `giocatore` empty unless the user explicitly gives a name or nickname to
-  show there.
-- **Wikilinks:** ALWAYS link entities with Obsidian-style wikilinks:
-  `[[Nome Entità]]` for plain text, `[[Nome Entità|testo visualizzato]]` for
-  an alias (e.g. to inflect a name). Use the entity's exact `titolo` (or its
-  filename) as the target — resolution is case/accent-insensitive but works
-  best with a near-exact match.
-- **One canonical file per entity:** search the existing files before
-  creating a new one; names with slight spelling variants must be unified
-  into ONE file.
-- **No spoilers:** only write what the party learned in play. Leave out
-  DM asides, out-of-character explanations, slips the DM corrected, and
-  anything only one character learned in secret unless it was shared with
-  the group. To check the canonical spelling of a name or clarify an
-  ambiguous detail, use the official Curse of Strahd module as reference
-  (the source to consult, if any, is set in `CLAUDE.local.md`, which is
-  gitignored). Don't copy from it anything the
-  characters haven't discovered in play yet (plot twists, secret identities,
-  future developments) — the players themselves read this site.
-- **Append, don't rewrite:** when an existing entity changes, update its
-  frontmatter (`stato`, `luogo`, …) and add a paragraph about the new
-  development; don't rewrite earlier history.
+- **Session updates:** when the user pastes a session transcript or points at one (e.g. `audio/session-NN.txt`), use the `new-session` skill (`.claude/skills/new-session/SKILL.md`). It covers the whole procedure: session file, new and updated entities, overview, map, verification.
+- **Renames and merges:** to rename an entity or merge duplicates, use the `rename-entity` skill (`.claude/skills/rename-entity/SKILL.md`). Never change a `titolo` or a filename by hand: wikilinks, backlinks and the page URL (already indexed by search engines) depend on them.
+- **No real names:** the site is public and indexed. Players appear only as their characters — never write a player's real name anywhere in `src/content/`, even though transcripts are full of them. Leave `giocatore` empty unless the user explicitly gives a name or nickname to show there.
+- **Wikilinks:** ALWAYS link entities with Obsidian-style wikilinks: `[[Nome Entità]]` for plain text, `[[Nome Entità|testo visualizzato]]` for an alias (e.g. to inflect a name). Use the entity's exact `titolo` (or its filename) as the target — resolution is case/accent-insensitive but works best with a near-exact match.
+- **One canonical file per entity:** search the existing files before creating a new one; names with slight spelling variants must be unified into ONE file.
+- **No spoilers:** only write what the party learned in play. Leave out DM asides, out-of-character explanations, slips the DM corrected, and anything only one character learned in secret unless it was shared with the group. To check the canonical spelling of a name or clarify an ambiguous detail, use the official Curse of Strahd module as reference (the source to consult, if any, is set in `CLAUDE.local.md`, which is gitignored). Don't copy from it anything the characters haven't discovered in play yet (plot twists, secret identities, future developments) — the players themselves read this site.
+- **Append, don't rewrite:** when an existing entity changes, update its frontmatter (`stato`, `luogo`, …) and add a paragraph about the new development; don't rewrite earlier history.
 
 ### Audio → session pipeline (optional)
 
-Instead of pasting the transcript, the user can start from a recording in
-`audio/` (gitignored): `pnpm transcribe` transcribes it locally (Parakeet TDT
-v3 via `parakeet-coreml`, macOS 14+ on Apple Silicon, needs `ffmpeg`), then
-`pnpm session -- audio/<file>.txt` runs Claude Code non-interactively
-(`claude -p`) with the `new-session` skill. In that mode you can't ask
-questions: make the most reasonable choice and flag every ambiguity in the
-final report.
+Instead of pasting the transcript, the user can start from a recording in `audio/` (gitignored): `pnpm transcribe` transcribes it locally (Parakeet TDT v3 via `parakeet-coreml`, macOS 14+ on Apple Silicon, needs `ffmpeg`), then `pnpm session -- audio/<file>.txt` runs Claude Code non-interactively (`claude -p`) with the `new-session` skill. In that mode you can't ask questions: make the most reasonable choice and flag every ambiguity in the final report.
 
 ## Commits
 
-Conventional commits, subject line only. Content updates use the `content`
-scope, e.g. `feat(content): add sessione-11`,
-`fix(content): merge Ismarc into Ismark Kolyanovich`.
+Conventional commits, subject line only. Content updates use the `content` scope, e.g. `feat(content): add sessione-11`, `fix(content): merge Ismarc into Ismark Kolyanovich`.
 
 ## Don'ts
 
-- Don't invent a second linking system: use only `[[...]]`, never manual
-  markdown links `[testo](/percorso)` for internal references between
-  entities.
-- Don't add a `slug` field to frontmatter (Astro derives the id from the
-  filename; `slug` is reserved for a possible override).
-- Don't install extra UI frameworks (no Tailwind/React/Vue) — the site uses
-  plain CSS and pure Astro.
+- Don't invent a second linking system: use only `[[...]]`, never manual markdown links `[testo](/percorso)` for internal references between entities.
+- Don't add a `slug` field to frontmatter (Astro derives the id from the filename; `slug` is reserved for a possible override).
+- Don't install extra UI frameworks (no Tailwind/React/Vue) — the site uses plain CSS and pure Astro.
 
 ## Technical notes
 
-- Wikilinks are resolved at build time by `src/lib/wikilinks.mjs` (slug map)
-  and `src/lib/remark-wikilinks.mjs` (remark plugin). A wikilink to a missing
-  entity doesn't break the build: it renders as text styled as a "broken
-  link" and logs a console warning — handy for spotting typos.
-- Backlinks ("Menzionato in") are computed by `src/lib/backlinks.ts` by
-  scanning the markdown body of every entry, plus each session's
-  `luoghiVisitati`.
-- Session pages get margin notes on wide screens: `remark-wikilinks.mjs`
-  lists, after each `##` heading, the NPCs and places mentioned there for
-  the first time, with their `ruolo` (or `tipo`) and a † when `stato` is
-  `morto`. Keep `ruolo` short: it's what the margin shows.
-- Astro caches rendered markdown in `node_modules/.astro/data-store.json` and
-  doesn't notice changes to the remark plugins: delete that file after
-  editing them, or old renders stick around.
-- Dark mode follows the system setting (the color tokens in
-  `src/styles/global.css`); the map keeps the light palette.
-- In `astro dev`, a new file added to `src/content/` may not be picked up
-  right away by already-cached wikilinks: restart the dev server after
-  adding new entities.
-- The site is indexable by search engines: `public/robots.txt` allows all
-  crawlers and points to the sitemap generated by `@astrojs/sitemap`. Entry
-  pages use their `estratto` as the meta description, so keep it a
-  self-contained sentence.
-- Character portraits live in `public/images/personaggi/`: `<id>.png`
-  (square, referenced by the `immagine` frontmatter field) and
-  `<id>-full.png` (tall, shown on the home page — any character with this
-  file is picked up automatically).
-- `src/content/` can be opened directly as an Obsidian vault to browse the
-  links graphically.
-- The map (`/mappa`, `src/pages/mappa.astro`) uses a painted background image
-  (`public/images/mappe/barovia.webp`, with no labels or roads to avoid
-  spoilers), desaturated by the `#sepia` SVG filter. On top of it, in
-  1920x1080 coordinates, sit only Barovia's "headline" places (not stops
-  inside a settlement, e.g. the shops in Vallaki): pins placed by hand in the
-  `nodes` array, roads in `travelledRoads` (red) or `knownRoads` (dashed).
-  A pin shows as visited when any session lists the place in `luoghiVisitati`.
-  When the party reaches a new place, add its pin and move the road from
-  known to travelled.
-- Search (`/cerca`, `src/pages/cerca.astro`) uses Pagefind: the index is
-  generated by `pnpm build` (the `pagefind --site dist` step) and so does NOT
-  exist in `astro dev` — to try it, use `pnpm build && pnpm preview`. Only
-  pages using `EntryLayout` (`data-pagefind-body`) are indexed, with a
-  `sezione` filter; metadata, badges, backlinks and pagination are excluded
-  with `data-pagefind-ignore`. Supports `/cerca/?q=term`.
+- Wikilinks are resolved at build time by `src/lib/wikilinks.mjs` (slug map) and `src/lib/remark-wikilinks.mjs` (remark plugin). A wikilink to a missing entity doesn't break the build: it renders as text styled as a "broken link" and logs a console warning — handy for spotting typos.
+- Backlinks ("Menzionato in") are computed by `src/lib/backlinks.ts` by scanning the markdown body of every entry, plus each session's `luoghiVisitati`.
+- Session pages get margin notes on wide screens: `remark-wikilinks.mjs` lists, after each `##` heading, the NPCs and places mentioned there for the first time, with their `ruolo` (or `tipo`) and a † when `stato` is `morto`. Keep `ruolo` short: it's what the margin shows.
+- Astro caches rendered markdown in `node_modules/.astro/data-store.json` and doesn't notice changes to the remark plugins: delete that file after editing them, or old renders stick around.
+- Dark mode follows the system setting (the color tokens in `src/styles/global.css`); the map keeps the light palette.
+- In `astro dev`, a new file added to `src/content/` may not be picked up right away by already-cached wikilinks: restart the dev server after adding new entities.
+- The site is indexable by search engines: `public/robots.txt` allows all crawlers and points to the sitemap generated by `@astrojs/sitemap`. Entry pages use their `estratto` as the meta description, so keep it a self-contained sentence.
+- Character portraits live in `public/images/personaggi/`: `<id>.png` (square, referenced by the `immagine` frontmatter field) and `<id>-full.png` (tall, shown on the home page — any character with this file is picked up automatically).
+- `src/content/` can be opened directly as an Obsidian vault to browse the links graphically.
+- The map (`/mappa`, `src/pages/mappa.astro`) uses a painted background image (`public/images/mappe/barovia.webp`, with no labels or roads to avoid spoilers), desaturated by the `#sepia` SVG filter. On top of it, in 1920x1080 coordinates, sit only Barovia's "headline" places (not stops inside a settlement, e.g. the shops in Vallaki): pins placed by hand in the `nodes` array, roads in `travelledRoads` (red) or `knownRoads` (dashed). A pin shows as visited when any session lists the place in `luoghiVisitati`. When the party reaches a new place, add its pin and move the road from known to travelled.
+- Search (`/cerca`, `src/pages/cerca.astro`) uses Pagefind: the index is generated by `pnpm build` (the `pagefind --site dist` step) and so does NOT exist in `astro dev` — to try it, use `pnpm build && pnpm preview`. Only pages using `EntryLayout` (`data-pagefind-body`) are indexed, with a `sezione` filter; metadata, badges, backlinks and pagination are excluded with `data-pagefind-ignore`. Supports `/cerca/?q=term`.

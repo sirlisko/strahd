@@ -7,13 +7,6 @@ luogo: Villa del Borgomastro
 estratto: Capitano delle guardie con un braccio demoniaco, ossessionato da Ireena.
 ---
 
-Capitano delle guardie di [[Barone Vargas]], dotato di un braccio
-demoniaco. Frequenta abitualmente la bottega del giocattolaio a
-[[Vallaki]]. È ossessionato da [[Ireena]] — ha "già perso la testa"
-vedendola; anche [[Strahd von Zarovich]] nutre la stessa ossessione per
-lei.
+Capitano delle guardie di [[Barone Vargas]], dotato di un braccio demoniaco. Frequenta abitualmente la bottega del giocattolaio a [[Vallaki]]. È ossessionato da [[Ireena]] — ha "già perso la testa" vedendola; anche [[Strahd von Zarovich]] nutre la stessa ossessione per lei.
 
-Durante l'udienza nella [[Villa del Borgomastro]] tenta di portarla a
-vedere "il suo alloggio". Alla festa del borgomastro le ronza attorno per
-tutto il tempo; lei lo ignora completamente, gelida. Izek non riesce ad avvicinarsi oltre i piedi della
-scalinata.
+Durante l'udienza nella [[Villa del Borgomastro]] tenta di portarla a vedere "il suo alloggio". Alla festa del borgomastro le ronza attorno per tutto il tempo; lei lo ignora completamente, gelida. Izek non riesce ad avvicinarsi oltre i piedi della scalinata.
