@@ -12,3 +12,5 @@ Scortata dal gruppo dal [[Villaggio di Barovia]] a [[Vallaki]], si rifugia insie
 Vargas ordina comunque di disarmarla ed espellerla dalla città quando si infuria con [[Don Matteor]]; il bando resta in vigore anche dopo che quest'ultimo riesce a placarlo. Lascia [[Vallaki]] all'alba insieme al gruppo, diretta verso l'[[Accampamento dei Vistani]].
 
 Nell'imboscata sulla strada per l'accampamento, vedendo il fratello attaccato da una vampira, si è lanciata contro di lei con spada e scudo, senza riuscire a colpirla. All'[[Accampamento dei Vistani]] resta con [[Ismark Kolyanovich]] a sorvegliare il carro.
+
+Nella [[sessione-12|sessione 12]], all'accampamento, si è irritata con [[Ismark Kolyanovich|Ismark]] che la tratta come una bambola da difendere: «Posso tranquillamente badare a me stessa». Anche lei però non si fida dei Vistani.

@@ -57,3 +57,9 @@ Nel frattempo, in piazza, [[Don Matteor]] evita con un discorso pubblico e un in
 Sulla strada per l'[[Accampamento dei Vistani]] il gruppo cade in una trappola: un anziano e due bambine apparentemente assediati dai lupi si rivelano non-morti — le bambine sono vampire guerriere, i lupi mannari. Scampati grazie al carro, sentono l'anziano dire loro nella mente "Sapevo che non mi avreste deluso" prima di dissolversi in nebbia: forse [[Strahd von Zarovich|Strahd]] in persona.
 
 All'accampamento i Vistani accolgono il gruppo con calore. Un cantastorie racconta di aver visto morire il mago che, più di un anno fa, aveva guidato i contadini contro il [[Castello Ravenloft]] — precipitato nel fiume dopo un duello con Strahd. Nello stesso periodo è comparso un mago pazzo che scaglia fulmini attorno a un lago a nord di [[Vallaki]]: il gruppo sospetta un collegamento. Il cantastorie li indirizza da [[Madama Eva]], nella tenda più grande.
+
+## La lettura di Madama Eva
+
+[[Madama Eva]], la matrona dei Vistani, accoglie il gruppo chiamandolo per nome e gli legge i tarocchi. Le carte indicano tre oggetti e due figure: un tesoro custodito dai Vistani la cui chiave è in mano a un bambino scomparso; un simbolo sacro in una casa in rovina custodita da un grande drago di pietra, verso la vetta più alta (il gruppo pensa ad [[Argynvostholt]]); una spada di luce solare nascosta nell'accampamento stesso; un'alleata, «una donna che è più della somma delle sue parti», in un'abbazia di montagna; e il nemico, una figura scura su un balcone che guarda dall'alto la terra.
+
+Nella notte [[Artemis]] trova in un carro dei Vistani un'elsa senza lama: un'arma senziente dalla lama di radianza, assetata di vendetta contro [[Strahd von Zarovich|Strahd]], che sembra essersi legata a lui. Il gruppo è diviso: [[Tariq]] crede a Eva, [[Erieth]] e Artemis la ritengono complice di Strahd e cominciano a valutare l'invito a cena al castello come via d'uscita da Barovia.
