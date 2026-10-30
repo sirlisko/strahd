@@ -618,6 +618,44 @@ main {
   text-align: left;
 }
 
+/* Tarokka spread: cards in reading order, placed in a cross as Eva lays them. */
+.tarokka {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 150px));
+  grid-template-areas:
+    '. alto .'
+    'sinistra centro destra'
+    '. basso .';
+  justify-content: center;
+  gap: 0.75rem;
+  margin: 2rem 0;
+}
+
+.tarokka img {
+  width: 100%;
+  height: auto;
+}
+
+.tarokka-alto {
+  grid-area: alto;
+}
+
+.tarokka-sinistra {
+  grid-area: sinistra;
+}
+
+.tarokka-centro {
+  grid-area: centro;
+}
+
+.tarokka-destra {
+  grid-area: destra;
+}
+
+.tarokka-basso {
+  grid-area: basso;
+}
+
 .entry-content blockquote {
   margin: 1.5rem 2rem;
   font-style: italic;

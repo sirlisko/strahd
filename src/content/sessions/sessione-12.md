@@ -19,6 +19,14 @@ Erieth taglia corto: non gli interessa il destino, vuole solo sapere come andars
 
 Eva dispone le carte a croce e le scopre una alla volta. Don Matteor la osserva con attenzione: non percepisce magia che manipoli le carte e non legge nel suo volto alcun inganno.
 
+<div class="tarokka">
+<img class="tarokka-sinistra" src="/images/tarokka/esattore.webp" alt="Otto di Denari, l'Esattore delle tasse">
+<img class="tarokka-alto" src="/images/tarokka/abiuratore.webp" alt="Quattro di Stelle, l'Abiuratore">
+<img class="tarokka-destra" src="/images/tarokka/indovino.webp" alt="Due di Stelle, l'Indovino">
+<img class="tarokka-basso" src="/images/tarokka/tentatrice.webp" alt="La Tentatrice">
+<img class="tarokka-centro" src="/images/tarokka/boia.webp" alt="Il Boia">
+</div>
+
 - **Otto di Denari, l'Esattore delle tasse.** Una carta che narra di storia: la conoscenza dell'antichità aiuterà a comprendere meglio il nemico. «I Vistani hanno ciò che cercate. Un bambino scomparso detiene la chiave per liberare il tesoro.»
 - **Quattro di Stelle, l'Abiuratore.** Una forza potente per il bene e la protezione, un simbolo sacro di grande speranza — e mentre lo dice Eva guarda Don Matteor. «Vedo una casa in rovina custodita da un grande drago di pietra. Guardate verso la vetta più alta.»
 - **Due di Stelle, l'Indovino.** Un'arma di vendetta, una spada di luce solare. «Rivolgetevi a colei che vede tutto. Il tesoro è nascosto nel suo accampamento.»
