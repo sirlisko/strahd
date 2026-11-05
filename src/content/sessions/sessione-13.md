@@ -1,0 +1,54 @@
+---
+titolo: Il cavaliere nella foschia
+numero: 13
+data: 2026-11-04
+estratto: Dopo una notte di pioggia e una colazione tesa da Madama Eva, il gruppo lascia l'accampamento verso Vallaki; su una strada allagata un albero caduto lo ferma, e zombie, un cavaliere non-morto e un orrore della palude lo circondano.
+luoghiVisitati: [Accampamento dei Vistani]
+tag: [vistani, imboscata, non-morti]
+---
+
+## La notte sotto la pioggia
+
+Al calare della notte il falò dell'[[Accampamento dei Vistani]] illumina ancora il centro del campo, lasciando nel buio tutto ciò che sta fuori dal cerchio di luce. I Vistani si ritirano a poco a poco nei carri e nelle tende; restano solo alcune guardie, due fisse davanti alla tenda di [[Madama Eva]], le altre a pattugliare il perimetro. Il gruppo non si fida abbastanza da dormire senza turni di guardia: [[Artemis]] prende il primo, appollaiato su una delle botti di vino del carro a gambe incrociate, con la pipa in bocca. Quando si chiede a [[Ismark Kolyanovich|Ismark]] e [[Ireena]] di contribuire, è Ireena a farsi avanti per prima, quasi militarmente, e si prende il secondo turno; [[Erieth]] medita seduto al posto del guidatore, [[Tariq]] russa beato nel carro, sicuro della protezione di Madama Eva.
+
+Verso mezzanotte comincia a piovere, poi viene giù un acquazzone che spegne il falò e inzuppa il terreno. Erieth e [[Don Matteor]] tendono i propri teli tra le botti e il posto del guidatore, sorretti da rami tagliati agli alberi vicini, e Don Matteor si lamenta di non avere più le comodità di [[Vallaki]]: è stanco di questo posto, vuole trovare la pozione o qualunque altra cosa permetta di andarsene. Tariq accende una delle sue fiamme magiche accanto agli ultimi Vistani rimasti al fuoco — un violinista ubriachissimo e un paio di compagni — e, con una Suggestione e un occhiolino, convince il violinista a portare un grande telo cerato: «Noi Vistani abbiamo tutto». Con quello la tettoia regge e l'acqua scivola via. Ismark, più furbo di tutti, ha steso il giaciglio sotto il carro.
+
+## La voce e l'elsa
+
+Durante il suo turno Artemis torna a fissare le torri del [[Castello Ravenloft]], e la voce dell'elsa gli risuona di nuovo nella mente: «Deve essere fatta giustizia!». Capisce che non risponde a comando, che fa ciò che vuole. Le promette che giustizia sarà fatta; lei non replica, ma subito dopo il sangue gli ribolle, il cuore accelera, gli occhi si spalancano: una rabbia che non lo spaventa, anzi lo carica — rabbia verso l'ingiustizia che lo ha intrappolato a Barovia e lo ha quasi ucciso più volte. La sensazione si affievolisce lentamente, ma lo lascia completamente sveglio, con la vista nel buio più acuta che mai.
+
+Finito il turno, sveglia Ireena — ancora intontita, ha dormito in armatura — che prende il suo posto sulla botte, e si apparta tra gli alberi per legarsi all'elsa, come gli aveva spiegato Tariq. Riconosce subito il metallo: platino, finemente lavorato, con un'impugnatura lunga da spada a due mani e una guardia elegante, senza fronzoli. Prova a parlarle, a maneggiarla con i suoi esercizi di spada, ma senza lama è soltanto un'elsa sbilanciata. Quando si immagina davanti il vampiro che lo ha quasi ucciso e lo fende, la furia torna: istinti da cacciatore, un'ira lucida come quella di un berserker. La sprona — «come posso vendicarti se resti un'elsa?» — ma la sensazione svanisce e la lama non compare. Il legame, Artemis lo sa per esperienza, non sta avvenendo.
+
+## Colazione da Madama Eva
+
+All'alba Don Matteor recita le orazioni mattutine e Tariq interpreta il volo degli uccelli: presagi ottimi, qualcosa di buono per il gruppo e qualcosa di pessimo per gli altri. Artemis racconta a Tariq ed Erieth il tentativo fallito: Tariq gli consiglia di passare più tempo con l'elsa; Erieth pensa che si risveglierà da sola contro i vampiri o vicino al castello, perché la sua unica volontà è colpire [[Strahd von Zarovich|Strahd]].
+
+Tariq ed Erieth tornano da [[Madama Eva]] per ringraziarla e farle qualche domanda; Don Matteor li accompagna e invita anche Ismark e Ireena. Ismark ne farebbe volentieri a meno, Ireena invece vuole conoscerla. Prima di entrare Tariq chiede telepaticamente agli altri di osservare la reazione di Eva davanti a Ireena, sospettando che la ragazza sia legata a qualcuna delle carte — e lo spiega così a lungo che Erieth, spazientito, si avvia; Tariq gli sguscia sotto il braccio per entrare per primo.
+
+Eva li chiama per nome uno a uno. Tariq, con un accento dell'Est che la fa sorridere, le dice che le sue divinazioni, così offuscate da quando è a Barovia, stamattina sono state favolose; lei lo rimprovera di non averle presentato la sua ospite. Ireena si avvicina impacciata come una scolaretta, ma Eva la anticipa prima che dica il proprio nome: «Ireena, lo so chi sei, cara. Non temere, qui sei al sicuro». Tariq nota che da quando la ragazza è entrata Eva non le ha mai tolto gli occhi di dosso; Ireena, dal canto suo, sembra intimidita, come davanti a qualcuno di molto potente o in cui ripone una speranza, ma non mostra di riconoscerla. Un Vistano porta pane con lardo caldo e bevande di frutta.
+
+Alle domande del gruppo Eva risponde che le nebbie a volte scelgono chi far passare, e non sempre dipende dalla persona. Sul bambino scomparso delle carte: esiste almeno un altro campo vistano, piccolo, fuori città a sud di [[Vallaki]], di «cugini» con cui non sono in buoni rapporti da quando hanno preso strade diverse; dei carri vistani dentro Vallaki, invece, dice di non aver mai saputo nulla. Sul mago incappucciato che porta l'anello cercato da Erieth: una decina di giorni fa alcuni dei suoi hanno visto una figura simile lungo la vecchia strada di Svalich, in direzione di Vallaki. Quando Erieth le chiede se si possa lasciare Barovia con un teletrasporto, Eva alza il mento e lo guarda negli occhi: «Sei sicuro che il tuo destino sia legato a questo anello?».
+
+Erieth le chiede poi di un nobile di nome Polov, legato al costruttore di bare di Vallaki, [[Van der Vort]], anch'egli sparito nel nulla. Il sorriso sparisce dal volto di Eva: due settimane fa qualcuno dei suoi ha incontrato un signor Polov ed è voluto andarsene immediatamente, preso da una paura innaturale. Quando però Erieth le offre denaro perché le sue «spie» rintraccino l'incappucciato, lei rifiuta: i Vistani non sono mercenari al soldo del primo capitano che passa. Erieth insinua di sapere già chi li paghi; Eva, gelida, gli risponde che è lui il soldato, «al comando di qualcuno a cui hai donato la tua anima». I toni si alzano finché Don Matteor si mette in mezzo, si scusa per i giorni difficili del gruppo e ringrazia per la colazione; Eva gli mostra di comprendere la rabbia di Erieth senza sentirsene offesa. Alla domanda precisa, ripete di non sapere dove si trovi l'uomo che Erieth cerca.
+
+## Verso le carte
+
+Artemis, rimasto ad allenarsi con l'elsa tra gli alberi, viene raggiunto da Don Matteor, che lo vede volteggiare con un'arma senza lama: sente che è potente, gli confida Artemis, ma non riesce a farla sua. Don Matteor gli racconta della colazione e gli confessa di non credere che questi Vistani siano i servi di Strahd di cui si parla: è stato tutto troppo facile, compreso prendere l'elsa. Anche Tariq crede che Eva sia dalla loro parte, e che le carte abbiano confermato ciò che il gruppo già sospettava sull'abbazia e sulla casa in rovina. Erieth, ancora nervoso, scruta in silenzio la tenda e i movimenti delle guardie; in lingua drow, con Artemis, si augura di avere presto la testa della vecchia. Poi evoca in mano per un istante la propria spada viola, dono del patrono, e se la tiene al fianco.
+
+Sulla mappa del gruppo riconoscono [[Argynvostholt]]: oltre Vallaki, dove il cavaliere non-morto aveva indicato la grande magione e dove [[Urwin]] l'aveva segnata. La decisione è seguire le carte, verso Vallaki e oltre, avvicinandosi alla città per valutare se entrarvi o aggirarla — il telo dei Vistani, scherza qualcuno, potrebbe anche servire da travestimento.
+
+## La strada allagata
+
+Si riparte sotto la pioggia, Artemis seduto sulla sua botte, «il mio trofeo». Lo stradello di terra argillosa si infanga e nelle buche si formano pozze in cui le ruote scavano solchi pericolosi; Don Matteor guida con esperienza, sapendo dove rallentare e quando far tirare i cavalli. Le fiamme magiche di Tariq per asciugare il fango servono a poco.
+
+A un certo punto la strada è sommersa per venti o trenta metri, una piccola palude che invade anche il bosco ai lati. Il carro vi entra e quasi si pianta: Don Matteor esamina il fondo e lo trova intriso di lunghe erbe piatte e pelose, come quelle da cui si fanno le corde, che rendono la melma ancora più scivolosa. Ismark, sollecitato dal gruppo, scende a spingere e Don Matteor conduce i cavalli a mano, calmandoli; centimetro dopo centimetro il carro torna sul terreno solido.
+
+Appena superata la palude, dietro una curva, un grosso albero caduto blocca l'intera strada: impossibile dire se l'abbia abbattuto il temporale o una mano. Tariq comincia a bruciarlo con una fiamma magica, mentre Artemis salta giù dal carro con una doppia capriola e si nasconde dietro un albero. Nella foschia, una ventina di metri più avanti, scorge un'ombra umanoide armata di spada lunga. Tariq manda il suo gufo sui rami e, attraverso i suoi occhi, la vede con chiarezza: un cavaliere in armatura completa, non vivo, come quello che li aveva indirizzati ad Argynvostholt, ma senza alcun simbolo sull'armatura.
+
+## L'imboscata
+
+Poi i suoni: davanti e dietro, a fonti alterne. Dal bosco su entrambi i lati escono degli zombie. E dal fango della palude, a meno di dieci metri dietro il carro, si solleva qualcosa di così ricoperto di quelle lunghe erbe che sembrano capelli: scivolando via, rivelano una creatura orrenda, grossa, avvolta in uno straccio come una vecchia coperta.
+
+Tariq grida a Don Matteor di spronare i cavalli e scaglia un Globo Cromatico infuocato sul tronco, mentre il gufo vi soffia sopra una vampata di fuoco: l'albero si annerisce ma regge. Erieth, nel retro del carro, si volta verso la creatura e sente un terrore improvviso, a cui resiste; si avvolge di spiriti rossastri e la colpisce con un Eldritch Blast, scagliandola indietro di qualche metro. Don Matteor evoca con l'aiuto della sua divinità un randello spirituale, che strappa un braccio allo zombie più vicino, e prova a colpire la creatura con una Fiamma Sacra, senza riuscirci.
+
+Il cavaliere scocca una freccia avvolta da un fuoco verde, che si pianta in uno degli zombie. Ismark incrocia lo sguardo della creatura della palude e il suo corpo comincia a morire: macchie nere gli si aprono sulla pelle, che marcisce e si stacca, e il suo urlo di dolore copre la pioggia. Ireena si mette in posizione di difesa. Artemis, dall'ombra, si lancia su uno zombie e con una mezza capriola gli trancia una gamba all'altezza del ginocchio, poi torna a nascondersi dietro un albero. Lo scontro è appena cominciato.

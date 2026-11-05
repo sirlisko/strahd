@@ -14,3 +14,5 @@ Vargas ordina comunque di disarmarla ed espellerla dalla città quando si infuri
 Nell'imboscata sulla strada per l'accampamento, vedendo il fratello attaccato da una vampira, si è lanciata contro di lei con spada e scudo, senza riuscire a colpirla. All'[[Accampamento dei Vistani]] resta con [[Ismark Kolyanovich]] a sorvegliare il carro.
 
 Nella [[sessione-12|sessione 12]], all'accampamento, si è irritata con [[Ismark Kolyanovich|Ismark]] che la tratta come una bambola da difendere: «Posso tranquillamente badare a me stessa». Anche lei però non si fida dei Vistani.
+
+Nella [[sessione-13|sessione 13]] si è offerta per prima per il turno di guardia notturno all'[[Accampamento dei Vistani]] e ha voluto conoscere [[Madama Eva]]: intimidita come una scolaretta, si è sentita dire «lo so chi sei, cara. Non temere, qui sei al sicuro». Eva non le ha tolto gli occhi di dosso, ma lei non ha mostrato di riconoscerla. Sulla strada verso [[Vallaki]], nell'imboscata dei non-morti, si è messa in posizione di difesa.

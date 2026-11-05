@@ -14,3 +14,5 @@ Durante la festa del Sole Splendente, Vargas ordina di disarmarlo ed espellerlo 
 Lungo la strada ha raccontato al gruppo le voci sul [[Mulino in Rovina]], che si dice infestato. Nell'imboscata sulla strada una vampira lo ha attaccato, restando con gli artigli incastrati nella sponda del carro. Arrivato all'[[Accampamento dei Vistani]] si mostra nervoso e diffidente ("un raggiro dopo l'altro") e resta con [[Ireena]] a sorvegliare il carro.
 
 Nella [[sessione-12|sessione 12]] ha proposto di lasciare il campo e tornare a casa al [[Villaggio di Barovia]], ammutolendo quando [[Erieth]] gli ha ricordato che è lì che Strahd ha trovato sua sorella. Si è offerto di fare la guardia al carro per la notte, chiedendo che [[Ireena]] dormisse in mezzo al gruppo per essere più protetta.
+
+Nella [[sessione-13|sessione 13]] ha preferito non conoscere [[Madama Eva]], restando al carro. Sulla strada verso [[Vallaki]] è sceso a spingere il carro impantanato in un tratto paludoso; nell'imboscata subito dopo ha incrociato lo sguardo di una creatura emersa dal fango e il suo corpo ha cominciato a marcire, lasciandolo gravemente ferito.
