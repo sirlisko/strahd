@@ -16,3 +16,5 @@ Lungo la strada ha raccontato al gruppo le voci sul [[Mulino in Rovina]], che si
 Nella [[sessione-12|sessione 12]] ha proposto di lasciare il campo e tornare a casa al [[Villaggio di Barovia]], ammutolendo quando [[Erieth]] gli ha ricordato che è lì che Strahd ha trovato sua sorella. Si è offerto di fare la guardia al carro per la notte, chiedendo che [[Ireena]] dormisse in mezzo al gruppo per essere più protetta.
 
 Nella [[sessione-13|sessione 13]] ha preferito non conoscere [[Madama Eva]], restando al carro. Sulla strada verso [[Vallaki]] è sceso a spingere il carro impantanato in un tratto paludoso; nell'imboscata subito dopo ha incrociato lo sguardo di una creatura emersa dal fango e il suo corpo ha cominciato a marcire, lasciandolo gravemente ferito.
+
+Nella [[sessione-14|sessione 14]], curato da [[Don Matteor]], è tornato in piedi e ha finito due zombie, l'ultimo decapitandolo al fianco della sorella. Ha aiutato Don Matteor a spostare il tronco che bloccava la strada e a spingere il carro, rimasto senza cavalli, fino a [[Vallaki]].

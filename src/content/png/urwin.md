@@ -16,3 +16,5 @@ Fornisce inoltre informazioni chiave su [[Rictavio]], sulla [[Torre Abbandonata]
 Dopo che [[Don Matteor]] viene bandito da Vallaki insieme a [[Ismark Kolyanovich]] e [[Ireena]], Urwin custodisce il carro del gruppo fino all'alba, lascia qualche corvo di guardia alla [[Bottega del Becchino]] dove il gruppo passa la notte, e offre una pista: un'antica casata locale (nome incerto, forse "Oster"), un tempo al servizio di [[Strahd von Zarovich]] prima che diventasse ciò che è ora, ora proprietaria di terre fuori città e con qualche capacità magica nella matriarca, potrebbe essere legata a [[I Veri Nobili di Vallaki|la setta incappucciata]]. Avverte che potrebbe presto arrivare il momento di scegliere da che parte stare.
 
 Al mattino della partenza ha ceduto ad [[Artemis]] un barile di vino e delle razioni per il viaggio, e i suoi corvi hanno scortato il gruppo per un buon tratto fuori da [[Vallaki]].
+
+Nella [[sessione-14|sessione 14]] i due cavalli del carro sono stati uccisi da un cavaliere non-morto sulla strada per [[Vallaki]]: [[Don Matteor]] intende ripagarglieli.

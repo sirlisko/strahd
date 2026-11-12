@@ -67,3 +67,7 @@ Nella notte [[Artemis]] trova in un carro dei Vistani un'elsa senza lama: un'arm
 ## Verso Argynvostholt
 
 Dopo una notte al campo, a colazione [[Madama Eva]] mostra di riconoscere [[Ireena]] e rivela l'esistenza di un secondo campo vistano a sud di [[Vallaki]], ma si scontra con [[Erieth]], a cui rinfaccia di aver donato l'anima a qualcuno. L'elsa di [[Artemis]] gli parla e lo accende di un'ira lucida, ma non si lega a lui. Il gruppo decide di seguire le carte, verso Vallaki e oltre, in direzione di [[Argynvostholt]] e dell'abbazia; sulla strada allagata cade in un'imboscata di zombie, di un cavaliere non-morto e di una creatura emersa dal fango.
+
+## Ritorno a Vallaki
+
+Il gruppo sopravvive all'imboscata ma perde i cavalli; sul cavaliere non-morto trova un medaglione d'oro di Sukran, il continente del sud, con lo stemma di una casata nobiliare quasi estinta. L'elsa, muta con [[Artemis]], parla a [[Don Matteor]] con la stessa voce sentita durante lo scontro («Lasciami vendicare»), mostrandogli il volto di un nobile dai capelli neri: ora è lui a custodirla. Spingendo il carro a mano, il gruppo arriva di sera a [[Vallaki]] e la trova cambiata: cancello aperto, nessuna guardia, strade deserte percorse solo da incappucciati.
